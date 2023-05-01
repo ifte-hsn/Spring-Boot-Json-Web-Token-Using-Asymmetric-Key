@@ -2,7 +2,7 @@
 We are going to implement JWT in spring boot application using RSA Public Private Key.
 
 Command for creating RSA Public and Private Keys
-```
+```bash
 openssl genrsa -out keypair.pem 2048
 
 # Extract Public Key
